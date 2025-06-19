@@ -9,6 +9,9 @@ I specialize in **front-end applications** and **back-end systems**, working wit
 ### 🌱 Currently Learning:
 - Deepening my knowledge of **Python** for **machine learning** and **AI**.
 - Exploring **deep learning** frameworks like **TensorFlow** and **PyTorch**.
+-  Some AI Projects I have built ⬇️
+     - [Ai Chatbot](https://github.com/dprajapati4/ai-chatbot)
+     - [Skincare Ai](https://github.com/dprajapati4/skincare-ai)
 
 ---
 
